@@ -6,9 +6,12 @@ Key Features:
 Utilized four machine learning algorithms, with XGBoost delivering the best performance.
 Developed a web interface using FastAPI for fast and efficient API integration.
 Deployed the application using Uvicorn, ensuring high performance and scalability.
+
 Technologies Used:
 Machine Learning Algorithms: XGBoost, (mention the other three algorithms if needed)
 Backend Framework: FastAPI
 Deployment Server: Uvicorn
 Programming Language: Python
 This project effectively combines powerful ML techniques with a lightweight and fast API solution, providing a robust insurance cost prediction tool.
+
+To run this app clone this repo, run this command in terminal "uvicorn app:app --reload" 
