@@ -1,4 +1,4 @@
-Insurance Charge Predictor
+### Insurance Charge Predictor
 
 The Insurance Price Predictor is a machine learning project designed to predict insurance costs based on various input features. The project leverages four different algorithms, with XGBoost emerging as the most accurate and efficient model.
 
